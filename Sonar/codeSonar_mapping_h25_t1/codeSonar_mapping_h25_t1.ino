@@ -42,7 +42,7 @@ void loop()
   }
 
   //Serial.print(detecter);
-  //Serial.print(" ");
+  Serial.print("isDetect ");
   Serial.println(detecter);
 
   delay(10);
